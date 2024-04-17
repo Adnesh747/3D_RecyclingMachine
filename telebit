@@ -1,0 +1,2 @@
+#!/bin/bash
+/home/pi/Applications/telebit/bin/node /home/pi/Applications/telebit/bin/telebit.js "$@"
